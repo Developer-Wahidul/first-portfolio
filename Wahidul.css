@@ -33,4 +33,12 @@ margin: 40px 10px 0px 0px;}
 .background-button{
     background-color:#0D1321;
     color: white;
+    margin-bottom: 10px;
 }
+/*description*/
+.description{text-align: center;}
+
+.image-1{display: flex;}
+.image-2{display: flex;}
+.image-3{display: flex;}
+
