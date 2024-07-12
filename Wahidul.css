@@ -45,5 +45,24 @@ margin: 40px 10px 0px 0px;}
 /*skill-heading*/
 .skill-heading{text-align: center;
 
+}
+.skills-container{display: flex;
+gap: 5px;}
+.skill{padding:5px;
+margin:5px;
+border:2px solid;
+background-color: #EBEBEB;
+border-radius: 8px;}
+/*foother*/
+.source-link{
+    text-align: center;
+    background-image: url(assets/handshake.jpg);
+    width: 1140px;
+    height: 313px;
+    margin-bottom: 200px;
+    padding-bottom: 200px;
+    border-radius: 16px;
+    color: white;}
 
+.class{padding-left:200px}
 
